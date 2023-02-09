@@ -2,12 +2,11 @@ html {
   scroll-behavior: smooth;
 }
 
-body{
-background-color: #f7f7f7;
+body {
+  background-color: #f7f7f7;
 }
 
-
-#preloader{
+#preloader {
   width: 100%;
   height: 100vh;
 
@@ -18,19 +17,17 @@ background-color: #f7f7f7;
   /*BOUNCING R PRELOADER*/
   background-color: #fff;
   background-image: url(../images/bouncing-r.gif);
-  
+
   background-repeat: no-repeat;
   background-position: center;
 }
 
-
 /* CONNECT SECTION */
 
-#connectme .btn a:hover{
-color: rgb(0, 153, 255) !important;
-text-decoration: none;
+#connectme .btn a:hover {
+  color: rgb(0, 153, 255) !important;
+  text-decoration: none;
 }
-
 
 /* BACK TO TOP */
 .back-to-top {
@@ -41,5 +38,5 @@ text-decoration: none;
   background-image: linear-gradient(45deg, #38ecdb99, #8396f3b8);
   font-size: 1.8rem;
   border: 0px;
-  border-radius: 25% ;
+  border-radius: 25%;
 }
